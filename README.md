@@ -1,9 +1,8 @@
-<<<<<<< HEAD
-# MyGarden
+## MyGarden
 
 Concept responsive view page for collections or shopping page using a grid system. Made with HTML5, CSS3, and jQuery.
 
-##Screenshots
+#Screenshots
 
 #Full Sized
 ![screenshots](Garden_One.png)
@@ -17,7 +16,4 @@ Concept responsive view page for collections or shopping page using a grid syste
 #Even Smaller Screen
 ![screenshots](Garden_Four.png)
 =======
-## MyGarden
 
-
->>>>>>> 1c98b192c92b446f7b8071f44f8f69bc01658fef
